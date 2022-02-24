@@ -14,7 +14,7 @@
 
 ## portfolio url:
 
-- https://css-md-000x.wtb.cfbx.jp/
+- https://css-md-0007.wtb.cfbx.jp/
 
 ## 使い方
 

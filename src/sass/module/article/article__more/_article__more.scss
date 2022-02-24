@@ -1,0 +1,15 @@
+@use "global" as *;
+// sp size 375px -> sp
+// tb size 768px -> md
+// pc size 1440px -> xl
+
+.article__more {
+  text-align: center;
+  border: 1px solid #fff;
+
+  @include mq(md) {
+  }
+
+  @include mq(xl) {
+  }
+}

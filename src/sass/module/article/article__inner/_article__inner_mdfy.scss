@@ -1,0 +1,15 @@
+@use "global" as *;
+// sp size 375px -> sp
+// tb size 768px -> md
+// pc size 1440px -> xl
+
+.article__inner_mdfy {
+  margin-bottom: rem(10);
+
+  @include mq(md) {
+    margin-bottom: rem(0);
+  }
+
+  @include mq(xl) {
+  }
+}
