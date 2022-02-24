@@ -23,6 +23,8 @@
 - レスポンシブについては、sp: スマホ、 tb、pc: pcにデザインを合わせてます。
 - 見難いので必要最低限のpadding、marginのみ設定してます。必要に応じて再設定して下さい。
 - 「お知らせ、すべて見る」はspサイズは「display: block;」、tb、pcサイズは「display: inline-block;」に設定してます。
+- html: copy startからcopy end を使用。
+- css: sass -> module -> articleを使用。
 
 ## 環境の使い方
 
