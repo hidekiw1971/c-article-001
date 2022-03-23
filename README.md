@@ -35,6 +35,17 @@
 - html: copy start から copy end を使用。
 - css: sass -> module -> article を使用。
 
+## w3c html チェック結果
+- https://validator.w3.org/nu/
+- エラーあり
+ <img width="1127" alt="image" src="https://user-images.githubusercontent.com/99580997/159742523-19e13ab6-01af-427e-bc68-666e89b314c6.png">
+
+
+## w3c css チェック結果
+- https://jigsaw.w3.org/css-validator/
+ <img width="1255" alt="image" src="https://user-images.githubusercontent.com/99580997/159742624-427dffc9-c09c-4165-bec0-baa74a6a124c.png">
+
+
 ## 環境の使い方
 
 - ダウンロードしたフォルダを開く
