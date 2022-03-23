@@ -3,11 +3,11 @@
 // tb size 768px -> md
 // pc size 1440px -> xl
 
-.article__more_mdfy {
-  display: block;
+.article__inner--layout {
+  margin-bottom: rem(10);
 
   @include mq(md) {
-    display: inline-block;
+    margin-bottom: rem(0);
   }
 
   @include mq(xl) {

@@ -3,7 +3,9 @@
 // tb size 768px -> md
 // pc size 1440px -> xl
 
-.article__topix_mdfy {
+.article__time--layout {
+  margin-right: rem(10);
+
   @include mq(md) {
   }
 
