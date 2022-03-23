@@ -1,0 +1,35 @@
+@use "global" as *;
+.article__link {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
+
+// article__linkの擬似要素
+.article__link::after {
+  position: absolute;
+  bottom: rem(-2);
+  left: 0;
+  content: "";
+  width: 100%;
+  height: rem(2);
+  background-color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
+
+// article__linkの擬似要素
+.article__link:hover::after {
+  bottom: rem(-6);
+  opacity: 1;
+  visibility: visible;
+}

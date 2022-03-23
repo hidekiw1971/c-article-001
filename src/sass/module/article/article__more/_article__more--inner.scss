@@ -1,15 +1,18 @@
 @use "global" as *;
 .article__more--inner {
-  // font
-  color: #000;
   // ajust
   display: flex;
   justify-content: center;
   align-items: center;
   //decoration
+  color: #fff;
   border: 1px solid #fff;
-  background-color: #fff;
+  background-color: #333;
   @include mq(md) {
+    //decoration
+    color: #000;
+    border: 1px solid #fff;
+    background-color: #fff;
   }
   @include mq(xl) {
   }

@@ -12,12 +12,20 @@
 
 ## 更新履歴
 
+- 2022/3/24 ホバー時、アンダーラインを表示する機能を実装 → 済
 - 2022/3/23 機能追加
 - 2022/2/24 初版　記事パターン 1
 
 ## portfolio url:
 
 - https://css-md-0007.wtb.cfbx.jp/
+
+## 参考にしたサイト
+
+- CSS：ホバー時のアンダーラインアニメーションの実装サンプルと mixin を用いた実装方法
+- https://www.nxworld.net/css-hover-underline-animation-examples-and-sass-mixin.html
+- visibility
+- https://developer.mozilla.org/ja/docs/Web/CSS/visibility
 
 ## module(共通部品)の使い方
 
