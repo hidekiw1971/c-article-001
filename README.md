@@ -10,9 +10,9 @@
 <img width="788" alt="image" src="https://user-images.githubusercontent.com/99580997/155553039-6095dc3f-2fb4-40b1-bc27-ce449568f67f.png">
 <img width="1310" alt="image" src="https://user-images.githubusercontent.com/99580997/155553178-000eb7d6-e088-470d-b9de-6b88d41f07de.png">
 
-
 ## 更新履歴
 
+- 2022/3/23 機能追加
 - 2022/2/24 初版　記事パターン 1
 
 ## portfolio url:
@@ -20,11 +20,12 @@
 - https://css-md-0007.wtb.cfbx.jp/
 
 ## module(共通部品)の使い方
-- レスポンシブについては、sp: スマホ、 tb、pc: pcにデザインを合わせてます。
-- 見難いので必要最低限のpadding、marginのみ設定してます。必要に応じて再設定して下さい。
-- 「お知らせ、すべて見る」はspサイズは「display: block;」、tb、pcサイズは「display: inline-block;」に設定してます。
-- html: copy startからcopy end を使用。
-- css: sass -> module -> articleを使用。
+
+- レスポンシブについては、sp: スマホ、 tb、pc: pc にデザインを合わせてます。
+- 見難いので必要最低限の padding、margin のみ設定してます。必要に応じて再設定して下さい。
+- 「お知らせ、すべて見る」は sp サイズは「display: block;」、tb、pc サイズは「display: inline-block;」に設定してます。
+- html: copy start から copy end を使用。
+- css: sass -> module -> article を使用。
 
 ## 環境の使い方
 
