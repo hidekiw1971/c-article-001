@@ -12,6 +12,7 @@
 
 ## 更新履歴
 
+- 2022/3/24 ホバー時、左からスワイプを実装したが、動きがぎこちないので調査する。
 - 2022/3/24 ホバー時、アンダーラインを表示する機能を実装 → 済
 - 2022/3/23 機能追加
 - 2022/2/24 初版　記事パターン 1
@@ -26,6 +27,8 @@
 - https://www.nxworld.net/css-hover-underline-animation-examples-and-sass-mixin.html
 - visibility
 - https://developer.mozilla.org/ja/docs/Web/CSS/visibility
+- CSS：ボタンホバー時に背景がスライドしたり領域を覆うアニメーションサンプル 10
+- https://www.nxworld.net/10-css-hover-fill-animation.html
 
 ## module(共通部品)の使い方
 
@@ -36,15 +39,15 @@
 - css: sass -> module -> article を使用。
 
 ## w3c html チェック結果
+
 - https://validator.w3.org/nu/
 - エラーあり
- <img width="1127" alt="image" src="https://user-images.githubusercontent.com/99580997/159742523-19e13ab6-01af-427e-bc68-666e89b314c6.png">
-
+  <img width="1127" alt="image" src="https://user-images.githubusercontent.com/99580997/159742523-19e13ab6-01af-427e-bc68-666e89b314c6.png">
 
 ## w3c css チェック結果
-- https://jigsaw.w3.org/css-validator/
- <img width="1255" alt="image" src="https://user-images.githubusercontent.com/99580997/159742624-427dffc9-c09c-4165-bec0-baa74a6a124c.png">
 
+- https://jigsaw.w3.org/css-validator/
+  <img width="1255" alt="image" src="https://user-images.githubusercontent.com/99580997/159742624-427dffc9-c09c-4165-bec0-baa74a6a124c.png">
 
 ## 環境の使い方
 
