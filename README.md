@@ -1,8 +1,9 @@
 # module（共通部品）
 
-## 記事パターン 1
+## 概要
 
-- 記事
+- 記事パターン
+- 日付、お知らせ、記事タイトル、すべて見るで構成。
 
 ## イメージ画像
 
@@ -12,6 +13,7 @@
 
 ## 更新履歴
 
+- 2022/3/26 模擬案件のヘッダー実装完了 → 細かい調整は後から調整する。
 - 2022/3/26 作業開始前に push。
 - 2022/3/24 ホバー時、左からスワイプを実装したが、動きがぎこちないので調査する。
 - 2022/3/24 ホバー時、アンダーラインを表示する機能を実装 → 済
@@ -30,6 +32,10 @@
 - https://developer.mozilla.org/ja/docs/Web/CSS/visibility
 - CSS：ボタンホバー時に背景がスライドしたり領域を覆うアニメーションサンプル 10
 - https://www.nxworld.net/10-css-hover-fill-animation.html
+- リンク：location.href と window.open
+- http://www.kogures.com/hitoshi/javascript/link/index.html
+- 日付や時刻を属性値で指定する
+- https://www.tagindex.com/html5/text/time_datetime.html
 
 ## module(共通部品)の使い方
 
