@@ -6,10 +6,9 @@
 - 日付、お知らせ、記事タイトル、すべて見るで構成。
 
 ## イメージ画像
-
-<img width="438" alt="image" src="https://user-images.githubusercontent.com/99580997/155553295-642f9982-520f-43b1-a8ba-72f2bfaff2ef.png">
-<img width="788" alt="image" src="https://user-images.githubusercontent.com/99580997/155553039-6095dc3f-2fb4-40b1-bc27-ce449568f67f.png">
-<img width="1310" alt="image" src="https://user-images.githubusercontent.com/99580997/155553178-000eb7d6-e088-470d-b9de-6b88d41f07de.png">
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/99580997/160234936-7a72bb1f-31e4-4a54-8972-0879f3add8e8.png">
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/99580997/160234947-c46f7bc5-d1f4-4166-ad4c-3547b62d1d93.png">
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/99580997/160234955-651c1656-1f89-49f9-8908-7cc565746eb1.png">
 
 ## 更新履歴
 
@@ -48,13 +47,14 @@
 ## w3c html チェック結果
 
 - https://validator.w3.org/nu/
-- エラーあり
-  <img width="1127" alt="image" src="https://user-images.githubusercontent.com/99580997/159742523-19e13ab6-01af-427e-bc68-666e89b314c6.png">
+- <img width="750" alt="image" src="https://user-images.githubusercontent.com/99580997/160234981-3c814346-a5a9-46a9-8ffd-22adc24c21d7.png">
+
 
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
-  <img width="1255" alt="image" src="https://user-images.githubusercontent.com/99580997/159742624-427dffc9-c09c-4165-bec0-baa74a6a124c.png">
+- <img width="1304" alt="image" src="https://user-images.githubusercontent.com/99580997/160234993-cf0d3555-6922-4b77-9257-33251221ba8e.png">
+
 
 ## 環境の使い方
 
